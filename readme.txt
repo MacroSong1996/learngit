@@ -17,3 +17,5 @@ Create a new branch is quick AND simple
 fast-forward
 
 no-fast-forward
+
+bug fix:Git is a free software
