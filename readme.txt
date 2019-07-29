@@ -12,4 +12,5 @@ third
 
 Creating a new branch is quick
 
-something
+Create a new branch is quick AND simple
+
